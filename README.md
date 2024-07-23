@@ -1,5 +1,4 @@
-# Detailed content for the README.md file
-readme_content = """
+
 # RobotSearchWebsite
 
 ## Overview
